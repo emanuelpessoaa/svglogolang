@@ -1,0 +1,19 @@
+{
+  "name": "svg-logolang",
+  "version": "0.0.1",
+  "description": "A library to use SVG more specifically logo languages.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/emanuelpessoaa/svglogolang.git"
+  },
+  "author": "Emanuel Pessoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emanuelpessoaa/svglogolang/issues"
+  },
+  "homepage": "https://github.com/emanuelpessoaa/svglogolang#readme"
+}
